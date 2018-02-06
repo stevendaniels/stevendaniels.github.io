@@ -1,6 +1,6 @@
 {
   "name": "Steven Daniels",
   "tagline": "",
-  "body": "### About Steven Daniels\r\n\r\nHusband, father, full-stack Ruby/Javascript developer. \r\n\r\nI currently work at [Jibe](https://www.jibe.com) as an engineering manager. I created several sites for learning Chinese including [Tasty Mantou Chinese](https://www.tastymantou.com) and [3000 Hanzi](https://3000hanzi.com).\r\n\r\nI maintain a couple Ruby gems, [roo](https://github.com/roo-rb/roo) a spreadsheet reader, and [Zhongwen Tools](https://github.com/stevendaniels/zhongwen_tools).",
+  "body": "### About Steven Daniels\r\n\r\nHusband, father, full-stack Ruby/Javascript developer. \r\n\r\nI currently work at [GiveCampus](https://www.givecampus.com) as a software engineer.\r\n\r\nI maintain a couple Ruby gems, [roo](https://github.com/roo-rb/roo) a spreadsheet reader, and [Zhongwen Tools](https://github.com/stevendaniels/zhongwen_tools).",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
